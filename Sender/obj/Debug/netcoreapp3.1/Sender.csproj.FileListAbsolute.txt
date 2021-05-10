@@ -1,0 +1,15 @@
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\obj\Debug\netcoreapp3.1\Sender.csprojAssemblyReference.cache
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache

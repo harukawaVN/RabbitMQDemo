@@ -1,0 +1,15 @@
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\bin\Debug\netcoreapp3.1\ReceiverB.exe
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\bin\Debug\netcoreapp3.1\ReceiverB.deps.json
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\bin\Debug\netcoreapp3.1\ReceiverB.runtimeconfig.json
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\bin\Debug\netcoreapp3.1\ReceiverB.runtimeconfig.dev.json
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\bin\Debug\netcoreapp3.1\ReceiverB.dll
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\bin\Debug\netcoreapp3.1\ReceiverB.pdb
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\obj\Debug\netcoreapp3.1\ReceiverB.csprojAssemblyReference.cache
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\obj\Debug\netcoreapp3.1\ReceiverB.AssemblyInfoInputs.cache
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\obj\Debug\netcoreapp3.1\ReceiverB.AssemblyInfo.cs
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\obj\Debug\netcoreapp3.1\ReceiverB.csproj.CoreCompileInputs.cache
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\obj\Debug\netcoreapp3.1\ReceiverB.csproj.CopyComplete
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\obj\Debug\netcoreapp3.1\ReceiverB.dll
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\obj\Debug\netcoreapp3.1\ReceiverB.pdb
+C:\Users\Ha TRUONG\source\repos\RabbitMQExample\ReceiverB\obj\Debug\netcoreapp3.1\ReceiverB.genruntimeconfig.cache
